@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+p{
+    text-align: justify;
+    
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color:red;
+    text-shadow: 2px 2px 2px yellow;
+}
+h2{
+    text-decoration: underline red;
+    text-align: center;
+}

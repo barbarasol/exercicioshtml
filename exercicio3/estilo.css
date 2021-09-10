@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aquamarine;
+    text-align: center;
+}
+ol#rotina{
+    margin-left: 570px;
+}

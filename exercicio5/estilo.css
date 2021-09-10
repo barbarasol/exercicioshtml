@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:#606060;
+    text-shadow: 1px 1px rebeccapurple;
+    text-align: center;
+    font-size: xx-large;
+}
+table#tabelaum{
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table#tabelaum td{
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+caption#tema1{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(56, 56, 56);
+}
+table#tabeladois{
+    border: 1px solid #606060;
+    border-spacing: 0px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table#tabeladois td{
+    border: 1px solid #606060;
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+caption#tema2{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(56, 56, 56);
+}

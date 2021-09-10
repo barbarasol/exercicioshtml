@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: burlywood;
+    text-align: center;
+}
+ol#top{
+    margin-left: 500px;
+    font-size: larger;
+}
+img#mapa{
+    margin-left: 380px;
+}
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+    text-align: center;
+}
